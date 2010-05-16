@@ -8,6 +8,7 @@ Group:		X11/Applications/Games
 Source0:	http://www.devolution.com/~slouken/projects/Maelstrom/add-ons/Stooges_Sounds.zip
 # Source0-md5:	f5004b158aece52154ccde47571b0f20
 URL:		http://www.devolution.com/~slouken/projects/Maelstrom/add-ons.html
+BuildRequires:	unzip
 Requires:	Maelstrom
 Obsoletes:	Maelstrom-sounds
 Obsoletes:	Maelstrom-sounds-AoD
